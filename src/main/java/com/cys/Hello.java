@@ -5,6 +5,8 @@ public class Hello {
 		System.out.println("Ö÷¸É");
 		System.out.println("·ÖÖ§");
 		System.out.println("a");
+		System.out.println("b");
+
 		return "Hello " + name + "!";
 	}
 }
